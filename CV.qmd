@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+As I progress through my career, I will be continuously updating my CV. By clicking o the photo, you can download my latest CV.
+
+![](images/PuaCasey_CV_Apr_2025-02.pdf){fig-align="center"}{r fig.height=160,fig.width=75}

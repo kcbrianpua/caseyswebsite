@@ -4,22 +4,22 @@ title: "Pictures"
 
 Growing up I never really took any photos. So, now as I've gotten older I have found how important photos are for memories. I really enjoy taking film and digital photos. So, here on this tab, are some of my favorite photos.
 
-## Marine
+# [Marine]{.underline}
 
-![](images/GPTempDownload%201.JPG){fig-align="center" width="354"}
+![](images/GPTempDownload%201.JPG){fig-align="center" width="6.51in"}
 
-![](images/GPTempDownload.jpg){fig-align="center" width="354"}
+![](images/GPTempDownload.jpg){fig-align="center" width="653"}
 
-![](images/Casey%20Diving.JPG){fig-align="center" width="354"}
+![](images/Casey%20Diving.JPG){fig-align="center" width="643"}
 
-![](images/clipboard-2383516053.png){fig-align="center" width="354"}
+![](images/clipboard-2383516053.png){fig-align="center" width="639"}
 
-## Myself
+# [Myself]{.underline}
 
-![](images/IMG_9516.JPG){fig-align="center" width="354"}
+![](images/IMG_9516.JPG){fig-align="center" width="531"}
 
-## Terrestrial
+# [Terrestrial]{.underline}
 
-![](images/poppy.jpg){fig-align="center" width="354"}
+![](images/poppy.jpg){fig-align="center" width="591"}
 
-![](images/pan_chem.jpg){fig-align="center" width="354"}
+![](images/pan_chem.jpg){fig-align="center" width="605"}

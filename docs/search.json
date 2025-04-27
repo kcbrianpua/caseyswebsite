@@ -4,7 +4,7 @@
     "href": "Pictures.html",
     "title": "Pictures",
     "section": "",
-    "text": "Growing up I never really took any photos. So, now as I’ve gotten older I have found how important photos are for memories. I really enjoy taking film and digital photos. So, here on this tab, are some of my favorite photos."
+    "text": "Growing up I never really took any photos. So, now as I’ve gotten older I have found how important photos are for memories. I really enjoy taking film and digital photos. So, here on this tab, are some of my favorite photos.\n\nMarine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMyself\n\n\n\n\n\n\n\nTerrestrial"
   },
   {
     "objectID": "Pictures.html#marine",
@@ -40,5 +40,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "As I progress through my career, I will be continuously updating my CV. By clicking o the photo, you can download my latest CV.\n{r fig.height=160,fig.width=75}"
   }
 ]
