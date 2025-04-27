@@ -1,0 +1,23 @@
+---
+title: "Casey Brian Pua"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/kcbrianpua
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/casey-pua-8a4a021aa/
+    - icon: envelope
+      text: Email
+      href: "mailto:caseybpua@gmail.com"  
+---
+
+![](images/scuba_casey.jpg){fig-align="center" width="337"}
+
+**My name is Casey Brian Pua, and I am a current graduate student at California State Polytechnic University, Pomona. I am in the process of getting my master's degree in biology. On this website, I offer a glimpse into my ongoing research, publications, and photo album.**
+
+**My research interests include anything marine, primarily marine ecology. I am particularly interested in habitat/species conservation and restoration. My studies, at the moment, are looking at artificial reefs. Specifically, I am looking at the characteristics of artificial reefs (complexity, heterogeneity, and verticality), the construction materials that make artificial reefs, effects on local planktivore density.**
+
+**In the future I hope to update this website with my published work and other achievements. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about me. Please feel free to contact me if you have any questions or would like to discuss potential projects.**

@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Casey's Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Pictures.qmd
+        text: Pictures
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
